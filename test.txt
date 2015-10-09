@@ -1,0 +1,3 @@
+git init (parado en la carpeta que quiero que sea repositorio)
+git add -A (actualizo status)
+git status
